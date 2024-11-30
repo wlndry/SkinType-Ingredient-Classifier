@@ -21,8 +21,8 @@ This project features a text classification model using deep learning with **Ten
 ### Performance
 | **Metric**               | **Value**   |
 |--------------------------|-------------|
-| **Accuracy**              | 0.9807      |
+| **Accuracy**              | 0.9735      |
 | **Validation Accuracy**   | 0.9668      |
-| **Loss**                  | 0.0744      |
-| **Validation Loss**       | 0.3025      |
+| **Loss**                  | 0.3007      |
+| **Validation Loss**       | 0.3030      |
 
